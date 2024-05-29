@@ -1,7 +1,7 @@
 # StellarDS Python SDK
 ## Introduction
 
-In the world of Python development, efficient database integration is crucial for building applications. We present the free StellarDS.io Python library to simplify database interactions. For developers looking to get started, you can easily access this on [PyPI](https://pypi.org/project/StellarDS/) or on our [Github](https://github.com/Stellar-DataStore/Python-SDK) repository, which includes a demo to help you get started with StellarDS.io.
+In the world of Python development, efficient database integration is crucial for building applications. We present the free StellarDS.io Python library to simplify database interactions. For developers looking to get started, you can easily access this on [PyPI](https://pypi.org/project/StellarDS/) or on our [Github](https://github.com/StellarDS/Python-SDK) repository, which includes a demo to help you get started with StellarDS.io.
 
 ## Create a Python Application
 ### Setup
